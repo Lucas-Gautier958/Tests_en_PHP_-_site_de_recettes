@@ -31,9 +31,9 @@ Cette zone continue également dans la ligne suivante.
 1. Liste 1  
 2. Liste 2  
 3. Liste 3  
-[ ] A  
-[x] B  
-[ ] C  
++ [ ] A  
++ [x] B  
++ [ ] C  
   
 Encore écrit ici en texte ordinaire  
     Ceci est la première ligne du bloc de code  
